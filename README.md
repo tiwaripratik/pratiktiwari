@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:0d1117,100:161b22&height=200&section=header&text=Pratik%20Kumar%20Tiwari&fontSize=55&fontColor=58a6ff&animation=fadeIn&fontAlignY=38&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20%7C%20LLM%20Specialist&descAlignY=60&descSize=18&descColor=8b949e"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,14,24,25,30&height=220&section=header&text=Pratik%20Kumar%20Tiwari&fontSize=55&fontColor=ffffff&animation=twinkling&fontAlignY=45&desc=Machine%20Learning%20Engineer%20%7C%20AI%20Systems%20%7C%20LLM%20Specialist&descAlignY=68&descSize=18&descColor=ffffff"/>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&multiline=false&width=700&height=45&lines=Building+Production-Grade+AI+Systems;RAG+Pipelines+%7C+LangChain+%7C+LangGraph;Computer+Vision+%7C+YOLO+%7C+OCR;Reinforcement+Learning+%7C+EV+Dispatch+Optimization;Quantum+Computing+for+ML+Optimization)](https://git.io/typing-svg)
 
@@ -65,46 +65,86 @@ class PratikKumarTiwari:
   </a>
 </p>
 
-### AI / ML Domains — Badges
+**AI / ML Domains**
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=flat-square&logo=googlecolab&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Reinforcement%20Learning-0081CB?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NLP-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG%20Pipelines-00BCD4?style=flat-square&logo=buffer&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-FF9800?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-FF4081?style=flat-square&logo=huggingface&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-34A853?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Knowledge%20Graphs-FF4081?style=flat-square&logo=neo4j&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Quantum%20Computing-6929C4?style=flat-square&logo=ibm&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=googlecolab&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Reinforcement%20Learning-0081CB?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Computer%20Vision-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NLP-76B900?style=for-the-badge&logo=nvidia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG%20Pipelines-00BCD4?style=for-the-badge&logo=buffer&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Quantum%20Computing-6929C4?style=for-the-badge&logo=ibm&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM%20Fine--Tuning-FF9800?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PEFT%20%2F%20LoRA-FF4081?style=for-the-badge&logo=huggingface&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-34A853?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Knowledge%20Graphs-FF4081?style=for-the-badge&logo=neo4j&logoColor=white"/>
 </p>
 
+<br/>
+
+**LLM & GenAI Stack**
+
 <p align="center">
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=flat-square&logo=chainlink&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=flat-square&logo=mistral&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/LlamaParse-6C35DE?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=flat-square&logo=yolo&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=flat-square&logo=roboflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tesseract%20OCR-3DDC84?style=flat-square&logo=google&logoColor=white"/>
-  <img src="https://img.shields.io/badge/EasyOCR-FF6B6B?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=flat-square&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/pgvector-316192?style=flat-square&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=flat-square&logo=databricks&logoColor=white"/>
-  <img src="https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LangSmith-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Mistral%20AI-FF7000?style=for-the-badge&logo=mistral&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Google%20Gemini-8E75B2?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/LlamaParse-6C35DE?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
+<br/>
+
+**Computer Vision & OCR**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=yolo&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge&logo=roboflow&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tesseract%20OCR-3DDC84?style=for-the-badge&logo=google&logoColor=white"/>
+  <img src="https://img.shields.io/badge/EasyOCR-FF6B6B?style=for-the-badge&logo=python&logoColor=white"/>
+</p>
+
+<br/>
+
+**ML Libraries**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white"/>
+  <img src="https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+<br/>
+
+**Databases & Vector Stores**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/pgvector-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/ChromaDB-FF6B6B?style=for-the-badge&logo=databricks&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white"/>
+</p>
+
+<br/>
+
+**Data & Visualization**
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Weka-FF6600?style=for-the-badge&logo=data&logoColor=white"/>
 </p>
 
 ---
